@@ -1,0 +1,23 @@
+<div class="filters">
+    <h2>Filter Bills</h2>
+    <form (submit)="exportToExcel()">
+      <label for="startDate">Start Date:</label>
+      <input type="date" id="startDate" [(ngModel)]="filters.startDate" name="startDate" />
+  
+      <label for="endDate">End Date:</label>
+      <input type="date" id="endDate" [(ngModel)]="filters.endDate" name="endDate" />
+  
+      <label for="minAmount">Min Amount:</label>
+      <input type="number" id="minAmount" [(ngModel)]="filters.minAmount" name="minAmount" />
+  
+      <label for="maxAmount">Max Amount:</label>
+      <input type="number" id="maxAmount" [(ngModel)]="filters.maxAmount" name="maxAmount" />
+  
+      <label for="description">Description:</label>
+      <input type="text" id="description" [(ngModel)]="filters.description" name="description" />
+  
+      <button type="button" (click)="exportToExcel()">Export to Excel</button>
+      <button type="button" (click)="exportToPdf()">Export to PDF</button>
+    </form>
+  </div>
+  

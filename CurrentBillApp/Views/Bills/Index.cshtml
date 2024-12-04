@@ -1,0 +1,36 @@
+﻿@model IEnumerable<CurrentBillApp.Models.Bill>
+
+@{
+    ViewData["Title"] = "Current Bills";
+}
+
+<h1>Current Bills</h1>
+
+<a asp-action="Create" class="btn btn-primary">Add New Bill</a>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Bill Number</th>
+            <th>Description</th>
+            <th>Amount</th>
+            <th>Created Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var bill in Model)
+        {
+            <tr>
+                <td>@bill.BillNumber</td>
+                <td>@bill.Description</td>
+                <td>@bill.Amount.ToString("C")</td>
+                <td>@bill.CreatedDate.ToString("yyyy-MM-dd")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@bill.Id" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@bill.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

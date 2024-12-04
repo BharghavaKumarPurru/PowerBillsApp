@@ -1,0 +1,10 @@
+.charts-page {
+    margin: 20px;
+  }
+  
+  canvas {
+    max-width: 800px;
+    margin: 0 auto;
+    display: block;
+  }
+  

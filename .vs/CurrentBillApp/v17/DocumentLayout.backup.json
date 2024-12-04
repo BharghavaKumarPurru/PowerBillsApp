@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\controllers\\etlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\controllers\\etlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\etlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\etlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\models\\transformedbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\models\\transformedbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\models\\billfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\models\\billfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\views\\bills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\views\\bills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\views\\bills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\views\\bills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\views\\bills\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\views\\bills\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\views\\bills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\views\\bills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|c:\\users\\bharghava\\onedrive\\documents\\flairsoft\\currentbillapp\\currentbillapp\\migrations\\20241203035532_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10808A2-07E7-44C3-A39F-5AF1DE2AC8EE}|CurrentBillApp\\CurrentBillApp.csproj|solutionrelative:currentbillapp\\migrations\\20241203035532_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillsController.cs",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Controllers\\BillsController.cs",
+              "RelativeDocumentMoniker": "CurrentBillApp\\Controllers\\BillsController.cs",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Controllers\\BillsController.cs",
+              "RelativeToolTip": "CurrentBillApp\\Controllers\\BillsController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAuwLwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:01:49.221Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ETLController.cs",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Controllers\\ETLController.cs",
+              "RelativeDocumentMoniker": "CurrentBillApp\\Controllers\\ETLController.cs",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Controllers\\ETLController.cs",
+              "RelativeToolTip": "CurrentBillApp\\Controllers\\ETLController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:31:56.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ETLService.cs",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\ETLService.cs",
+              "RelativeDocumentMoniker": "CurrentBillApp\\ETLService.cs",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\ETLService.cs",
+              "RelativeToolTip": "CurrentBillApp\\ETLService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:24:27.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Views\\Bills\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CurrentBillApp\\Views\\Bills\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Views\\Bills\\Delete.cshtml",
+              "RelativeToolTip": "CurrentBillApp\\Views\\Bills\\Delete.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T22:36:55.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Views\\Bills\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CurrentBillApp\\Views\\Bills\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Views\\Bills\\Edit.cshtml",
+              "RelativeToolTip": "CurrentBillApp\\Views\\Bills\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T22:36:32.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Views\\Bills\\Create.cshtml",
+              "RelativeDocumentMoniker": "CurrentBillApp\\Views\\Bills\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Views\\Bills\\Create.cshtml",
+              "RelativeToolTip": "CurrentBillApp\\Views\\Bills\\Create.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T22:36:12.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Program.cs",
+              "RelativeDocumentMoniker": "CurrentBillApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Program.cs",
+              "RelativeToolTip": "CurrentBillApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:38:24.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransformedBill.cs",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Models\\TransformedBill.cs",
+              "RelativeDocumentMoniker": "CurrentBillApp\\Models\\TransformedBill.cs",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Models\\TransformedBill.cs",
+              "RelativeToolTip": "CurrentBillApp\\Models\\TransformedBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:25:30.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CurrentBillApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CurrentBillApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:38:29.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BillFilterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Models\\BillFilterModel.cs",
+              "RelativeDocumentMoniker": "CurrentBillApp\\Models\\BillFilterModel.cs",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Models\\BillFilterModel.cs",
+              "RelativeToolTip": "CurrentBillApp\\Models\\BillFilterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:23:51.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Views\\Bills\\Index.cshtml",
+              "RelativeDocumentMoniker": "CurrentBillApp\\Views\\Bills\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Views\\Bills\\Index.cshtml",
+              "RelativeToolTip": "CurrentBillApp\\Views\\Bills\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:03:40.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "CurrentBillApp\\Models\\Bill.cs",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Models\\Bill.cs",
+              "RelativeToolTip": "CurrentBillApp\\Models\\Bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:14:14.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241203035532_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Migrations\\20241203035532_InitialMigration.cs",
+              "RelativeDocumentMoniker": "CurrentBillApp\\Migrations\\20241203035532_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Migrations\\20241203035532_InitialMigration.cs",
+              "RelativeToolTip": "CurrentBillApp\\Migrations\\20241203035532_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:55:32.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CurrentBillApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CurrentBillApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T22:42:24.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CurrentBillApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bharghava\\OneDrive\\Documents\\Flairsoft\\CurrentBillApp\\CurrentBillApp\\appsettings.json",
+              "RelativeToolTip": "CurrentBillApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T02:37:56.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

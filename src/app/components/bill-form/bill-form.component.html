@@ -1,0 +1,20 @@
+<h1>Add New Bill</h1>
+<form (ngSubmit)="saveBill()">
+  <div class="form-group">
+    <label>Bill Number</label>
+    <input type="text" class="form-control" [(ngModel)]="bill.billNumber" name="billNumber" required />
+  </div>
+  <div class="form-group">
+    <label>Description</label>
+    <input type="text" class="form-control" [(ngModel)]="bill.description" name="description" />
+  </div>
+  <div class="form-group">
+    <label>Amount</label>
+    <input type="number" class="form-control" [(ngModel)]="bill.amount" name="amount" required />
+  </div>
+  <div class="form-group">
+    <label>Created Date</label>
+    <input type="date" class="form-control" [(ngModel)]="bill.createdDate" name="createdDate" required />
+  </div>
+  <button type="submit" class="btn btn-primary">Save</button>
+</form>
